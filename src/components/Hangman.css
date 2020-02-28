@@ -1,0 +1,19 @@
+
+.background1 {
+  background-color:ghostwhite;
+}
+
+.textColorLost {
+  color: red;
+}
+.textColor {
+  color: blue;
+}
+.size {
+  width: 80%;
+  margin-top: 50px;
+}
+
+.textColorWin {
+  color: green;
+}
